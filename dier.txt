@@ -1,0 +1,724 @@
+aap
+panda
+rat
+bosuil
+kat
+poes
+uil
+beer
+mus
+parkiet
+slang
+aalscholver
+aardwolf
+adder
+neushoorn
+olifant
+giraf
+afrikaans boomschubdier
+afrikaanse buffel
+afrikaanse eieretende slang
+afrikaanse jacana
+afrikaanse olifant
+afrikaanse wilde kat
+agoeti
+alk
+alpaca
+alpenmarmot
+amazonedolfijn
+amerikaanse bever
+amerikaanse das
+amerikaanse marter
+amerikaanse oehoe
+amerikaanse sneeuwhaas
+anaconda
+antarctische zeebeer
+apollovlinder
+argalischaap
+asgrauwe keverslak
+atlantische hagedisvis
+atlantische vlekdolfijn
+australische zeeleeuw
+axolotl
+aziatische goudkat
+aziatische steenpatrijs
+aardvarken
+aasgier
+afrikaanse bos-olifant
+afrikaanse civetkat
+afrikaanse goudkat
+afrikaanse longvis
+afrikaanse steppenvaraan
+afrikaanse zeearend
+alaskagrondeekhoorn
+alligatorschildpad
+alpenlandsalamander
+alpensneeuwhoen
+amazone-lamantijn
+amerikaanse bizon
+amerikaanse lepelsteur
+amerikaanse nerts
+amerikaanse rivierkreeft
+amerikaanse zeearend
+angwantibo
+antilopegrondeekhoorn
+arapaima
+arowana
+asthenosoma varium
+atlantische sousa
+australische zeebeer
+axishert
+aziatische civetkat
+aziatische olifant
+aziatische wilde ezel
+baardaap
+baardrob
+baars
+bandrob
+beerbaviaan
+beloega
+bengaalse tijger
+bennettboomkangoeroe
+berberaap
+bergkangoeroe
+berglemming
+bergzebra
+bezoargeit
+bijtschildpad
+blauwe papegaaivis
+blauwoogmaki
+boa constrictor
+bonobo
+bonte ijsvogel
+boommarter
+bosduivel
+boshond
+bosspitsmuis
+brandgans
+breedsnuitkaaiman
+brokkelster
+bruinbehaard gordeldier
+bruine beer
+bruine brulaap
+bruine kiwi
+bruine muisvogel
+bruine rat
+bruinvis van burmeister
+buideleikelmuis
+buidelmol
+bultkop papegaaivis
+bultrugwalvis
+butskop
+baardagame
+baardzwijn
+bajkalrob
+beekforel
+beermarter
+beluga steur
+bengaalse tijgerkat
+bennettwallaby
+bergeend
+bergkat
+bergnyala
+beverrat
+bijeneter
+blauwe haai
+blauwe vinvis
+blinde bij
+bongo
+bonte dolfijn
+boomklipdas
+bosbok
+bosgems
+bosmuis
+bosuil
+brazzameerkat
+brilbeer
+brughagedis
+bruine baviaan
+bruine breedvoetbuidelmuis
+bruine hyena
+bruine lemur
+bruine pelikaan
+bruinvis
+bryde walvis
+buidelmiereneter
+buizerd
+bultkrokodil
+burchell-zebra
+californische zeeleeuw
+canadese lynx
+caracal
+caribische zeekoe
+celebes spookdiertje
+chileense flamingo
+chinchilla
+chinese alligator
+chinese vlagdolfijn
+chiroe
+citroenhaai
+clymene-dolfijn
+commerson dolfijn
+cryptops hortensis
+canadese gans
+capibara
+caribische monniksrob
+cavia
+chaco
+chimpansee
+chinees schubdier
+chinese reuzensalamander
+chinese witte dolfijn
+chromodoris
+citroenvlinder
+coelacanth
+coyote
+dagpauwoog
+damagazelle
+das
+dendronephtya
+diamantratelslang
+dikhoornschaap
+dikstaartgalago
+dodaars
+dolfijn van cuvier
+dolfijn van peale
+doopvontschelp
+dorcasgazelle
+dove varaan
+driehoornkameleon
+dril
+dubbelhoornige neushoornvogel
+dwergmuis
+dwergnijlpaard
+dwergotter
+dwergwalvis
+dalls bruinvis
+damhert
+degoe
+diadema savignyi
+dianameerkat
+dikkopschildpad
+dingo
+doejong
+dolfijn van fraser
+doodshoofdaapje
+doornenkroon
+douglaseekhoorn
+drieband anemoonvis
+drievingerige luiaard
+dromedaris
+dwerggriend
+dwergmuismaki
+dwergooruil
+dwergvinvis
+edelhert
+eetbare zee-egel
+elandgeweikoraal
+emoe
+europese aal
+europese boomkikker
+europese meerval
+europese zeehond
+edelpapegaai
+eland
+emerald honingzuiger
+europees konijn
+europese bever
+europese egel
+europese nerts
+fazant
+filippijns spookdiertje
+floridakonijn
+fluwelen zeemuis
+franjehaai
+fuut
+fennek
+flamingotong
+floridarotsrat
+franciscana
+fretkat
+gaffelbok
+galã¡pagoszeebeer
+gaur
+geelbuikmarmot
+geelvleugelara
+gelada
+gele schorpioen
+gems
+geoffroy-kat
+gerenoek
+gestreepte dolfijn
+gestreepte hyena
+gevlekt zandhoen
+gevlekte bunzing
+gevlekte koeskoes
+gevlekte wormhagedis
+gewone eekhoorn
+gewone kameleon
+gewone mierenegel
+gewone schorpioenvlieg
+gewone tenrec
+gewone wombat
+gewoon spitskopje
+giraffe
+gorilla
+gouden kikker
+goulds varaan
+grantgazelle
+grã©vy-zebra
+grijze eekhoorn
+grijze marmot
+grijze roodstaartpapegaai
+grijze walvis
+groene baviaan
+groene hondskopboa
+groene leguaan
+groene murene
+groene specht
+groene zeeschildpad
+groenlandse walvis
+groot koolwitje
+grootschub lantaarnvis
+grote geelkuifkaketoe
+grote kakkerlak
+grote langoorbuideldas
+grote suikereekhoorn
+grote witte haai
+guadalupe zeebeer
+galã¡pagos-reuzenschildpad
+gangesdolfijn
+gaviaal
+geelsnaveltok
+geelvoetkangoeroe
+gele baviaan
+gemarmerde sidderrog
+genetkat
+geoorde fuut
+gesterde geleikorst
+gestreepte grondeekhoorn
+gestreepte jakhals
+gevlekte buidelmarter
+gevlekte hyena
+gevlekte reuzentandbaars
+gewone dolfijn
+gewone hamster
+gewone kousenbandslang
+gewone pad
+gewone teek
+gewone vinvis
+gewone zeester
+gilamonster
+goodfellowboomkangoeroe
+gouden gifkikker
+goudkop leeuwaapje
+gramper
+grasparkiet
+griend
+grijze goral
+grijze reuzenkangoeroe
+grijze vos
+grijze zeehond
+groene boompython
+groene kikker
+groene meerkat
+groene pad
+groene toerako
+groenlandse haai
+groentje
+grootkopschildpad
+grote eendenmossel
+grote hoefijzerneus
+grote kroonslak
+grote rafelvis
+grote weerschijnvlinder
+grote zilverreiger
+gunnison prairiehond
+haas
+halsbandpekari
+hardoen
+hawaiiaanse monniksrob
+hazelworm
+heilige ibis
+heremietibis
+hertmuizen
+hondshaai
+honingbij
+hoornratelslang
+houtduif
+huismuis
+huisspin
+huzaaraap
+halsband anemoonvis
+hamsterrat
+haring
+hazelmuis
+hector-dolfijn
+helmkasuaris
+hermelijn
+hoffmanns tweevingerige luiaard
+honingbeer
+honingdas
+hop
+hudson-eekhoorn
+huismus
+huisvlieg
+hyacinthara
+ijsbeer
+indische borstelrat
+indische civetkat
+indische neushoorn
+indo-chinese tijger
+iriomotokat
+irrawaddidolfijn
+ijsduiker
+indische bruinvis
+indische griend
+indische zandboa
+indri
+iriserende spons
+jachtluipaard
+jaguar
+japanse bosgems
+japanse makaak
+javaanse langoer
+juan-fernandez zeebeer
+jagoearoendi
+jan-van-gent
+japanse kuifibis
+java-aap
+javaanse neushoorn
+juweelanemoon
+kaaimanteju
+kaapse ibis
+kaapse rotsklipdas
+kabeljauw
+kalkoen
+kamtsjatka krab
+karper
+keizerspinguin
+kerguelenzeebeer
+kerstboomkokerworm
+klapmuts
+kleine bruine skink
+kleine kantjil
+kleine panda
+kleinste dwergbuidelrat
+kluut
+koala
+kogelgordeldier
+kommavlinder
+kompaskwal
+koningscobra
+kookaburra
+korhoen
+kortneusbuideldas
+kortoorvos
+kraaghagedis
+krabbeneter
+kroonmaki
+kuifgibbon
+kuifseriema
+kwabaal
+kaapse grondeekhoorn
+kaapse otter
+kaapse zeebeer
+kakapo
+kameel
+karetschildpad
+kea
+kemps zeeschildpad
+kerkuil
+kievit
+klapperdief
+kleine hoefijzerneus
+kleine koedoe
+kleine zeehond
+klipspringer
+knoflookpad
+koekoek
+kolonistenagame
+komodovaraan
+koningsalbatros
+koningspage
+koraalduivel
+koritrap
+kortoorspitsmuis
+kraagbeer
+kraagtrap
+kroonbasilisk
+kropgazelle
+kuifmakaak
+kuiftinamoe
+ladoga stinkrob
+lammergier
+lappenkameleon
+lederschildpad
+leiobunum rotundum
+lippenbeer
+luipaardhaai
+lama
+langoorhaasrat
+layard spitssnuitdolfijn
+leeuw
+lepelhond
+luipaard
+lynx
+magelhaengans
+maleise kantjil
+mandril
+manenwolf
+mantelbaviaan
+mantelgrondeekhoorn
+margay
+maskerwever
+mediterrane monniksrob
+meerkoet
+meikever
+mexicaanse draadwormslang
+mississippi-alligator
+moeraskat
+moerassprinkhaan
+moko
+muurgekko
+makreelhaai
+mandarijneend
+manenrob
+manoel
+mantelbrulaap
+mara
+marmerkat
+matschieboomkangoeroe
+medusester
+meervleermuis
+melkslang
+mexicaanse wormsalamander
+moeflon
+moerassneeuwhoen
+moeraswallaby
+moorse landschildpad
+nandoe
+nassau tandbaars
+netpython
+neushoornleguaan
+nieuw-zeelandse zeebeer
+nijlpaard
+noord-amerikaanse fluithaas
+noord-amerikaanse otter
+noordelijke fluithaas
+noordelijke zeebeer
+noordkaper
+noordse vinvis
+nyala
+narwal
+negenbandig gordeldier
+neusaap
+nevelpanter
+nijlkrokodil
+nijlvaraan
+noord-amerikaanse katfret
+noord-amerikaanse vliegende eekhoorn
+noordelijke gladde dolfijn
+noordelijke zeeolifant
+noordse stern
+noordzeekrab
+nyssodesmus python
+ocelot
+okapi
+orang-oetan
+orinocodolfijn
+orka
+oehoe
+oorkwal
+orgelpijppoliep
+orinoco-krokodil
+otter
+paarse buisspons
+pampakat
+papegaaiduiker
+pardellynx
+patrijs
+penseelzwijn
+poema
+poolvos
+porpita portpita
+potto
+protanthea
+pyreneeenbeeksalamander
+paddenkopagame
+pantserkrokodil
+paradijskraanvogel
+parelmoernautilus
+pennantrosella
+platrugschildpad
+poolhaas
+poorwill
+portugees oorlogsschip
+potvis
+pyjamazweefvlieg
+quetzal
+quokka
+regenboogforel
+rendier
+reuzen wielwebspin
+reuzenhaai
+reuzenmiereneter
+reuzenstern
+reuzenzwijn
+ringslang
+rivierprik
+rode brulaap
+rode hond
+rode lynx
+rode piranha
+rode wolf
+roestkat
+rolstaartbeer
+roodband papegaaivis
+roodkeelduiker
+rotsduif
+roze kaketoe
+rugstreeppad
+regenbooglori
+renkoekoek
+reuzenalbatros
+reuzenmanta
+reuzenpanda
+reuzentoekan
+rhesusaap
+ringstaartmaki
+robijnkeelkolibrie
+rode franjeaap
+rode ibis
+rode neusbeer
+rode reuzenkangoeroe
+rode wouw
+rolpissebed
+rood saterhoen
+roodborst
+roodstaart papegaaivis
+rotspython
+rubberboa
+ruitkrokodil
+schoenbekooievaar
+schroefhoorngeit
+scolopender
+serval
+sidderaal
+slijmprik
+snaveldolfijn
+sneeuwpanter
+snoek
+spiraalkokerworm
+spleetschildpad
+springtamarin
+steenbok
+steenvis
+steur
+stokstaartje
+struisvogel
+sumatraanse tijger
+schol
+schuimcicade
+secretarisvogel
+siberische tijger
+slechtvalk
+sloane's addervis
+sneeuwhaas
+sneeuwuil
+spinnerdolfijn
+spitssnuitkrokodil
+springbok
+steenarend
+steenmarter
+stekelrog
+stinkdier
+stompneusaap
+sumatraanse neushoorn
+syrische goudhamster
+takin
+tapirvis
+tasmaanse duivel
+thomsongazelle
+tijgersalamander
+tuimelaar
+tammarwallaby
+tarpon
+tayra
+tijger
+torenvalk
+tuka vlaggenbaars
+vaquita
+vetstaartdwerglemur
+vink
+viskat
+vogelbekdier
+vuursalamander
+veelvraat
+vingerdier
+virginiaanse opossum
+vliegende gekko
+vos
+walrus
+warana
+waterree
+watervleermuis
+wezel
+wilde hond
+witlippekari
+witte neushoorn
+woestijndwerghamster
+wolf
+wrattenzwijn
+walvishaai
+wasbeer
+waterspitsmuis
+west-afrikaanse lamantijn
+wild zwijn
+wisent
+witschouder kapucijnaap
+woelrat
+woestijnkat
+wolspinaap
+wrattig hoornkoraal
+yak
+zaagvis
+zadelrob
+zandloperdolfijn
+zeekrokodil
+zeeluipaard
+zeepaardje, dwerg
+zeeprik
+zevenstippelig lieveheersbeestje
+zuidelijke butskop
+zuidelijke zeebeer
+zuidelijke zwarte dolfijn
+zwanenhalsfuut
+zwarte beer
+zwarte heidelibel
+zwarte kraai
+zwarte neushoorn
+zwarte specht
+zwarthandgibbon
+zwartstaartprairiehond
+zwartwitte franjeaap
+zadeljakhals
+zandadder
+zeeduivel
+zeeleguaan
+zeeotter
+zeepaling
+zeilvis
+zuid-chinese tijger
+zuidelijke gladde dolfijn
+zuidelijke zeeolifant
+zuidkaper
+zwanenmossel
+zwarte brulaap
+zwarte kaaiman
+zwarte lemur
+zwarte rat
+zwarte zwaardwalvis
+zwartstaarthaas
+zwartvoetkat
+zwartwitte vari
